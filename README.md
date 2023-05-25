@@ -6,3 +6,4 @@
 * comando git push
 * enviando para o github
 * comando git pull
+* comando git fetch
